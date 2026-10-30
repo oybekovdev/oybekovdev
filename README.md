@@ -49,12 +49,11 @@ A Telegram bot that helps users choose between two options. The user enters two 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oybekovdev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+<img height="165" src="./profile/stats.svg" alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oybekovdev&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+<img height="165" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
 </div>
-
 
 ## Current Goals
 
