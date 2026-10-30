@@ -44,15 +44,17 @@ A Telegram bot that helps users choose between two options. The user enters two 
 - **Type:** Telegram bot
 - **Repository:** [github.com/oybekovdev/first_bot](https://github.com/oybekovdev/first_bot)
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oybekovdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics for oybekovdev" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oybekovdev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oybekovdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages for oybekovdev" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oybekovdev&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 
 </div>
+
 
 ## Current Goals
 
