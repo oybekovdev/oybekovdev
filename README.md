@@ -30,7 +30,7 @@ I'm a student at **Inha University in Tashkent**, working toward becoming a stro
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,pycharm&theme=dark" alt="Python, Django, HTML, CSS, Git, GitHub, VS Code, and PyCharm icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,pycharm&theme=dark" alt="Python ,Java, Django, HTML, CSS, Git, GitHub, Docker,SQL, VS Code, and PyCharm icons" />
 </p>
 
 **Currently learning:** SQL and database fundamentals.
