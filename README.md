@@ -58,7 +58,6 @@ A Telegram bot that helps users choose between two options. The user enters two 
 ## Current Goals
 
 - Build more projects with Python and Django
-- Learn SQL and work with databases
 - Improve problem-solving skills
 - Keep learning and contribute to open-source projects
 
