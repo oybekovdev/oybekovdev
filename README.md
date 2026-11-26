@@ -44,17 +44,6 @@ A Telegram bot that helps users choose between two options. The user enters two 
 - **Type:** Telegram bot
 - **Repository:** [github.com/oybekovdev/first_bot](https://github.com/oybekovdev/first_bot)
 
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="./profile/stats.svg" alt="GitHub Statistics" />
-
-<img height="165" src="./profile/top-langs.svg" alt="Most Used Languages" />
-
-</div>
-
 ## Current Goals
 
 - Build more projects with Python and Django
